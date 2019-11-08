@@ -1,27 +1,21 @@
-<<<<<<< HEAD
-.texte{
+
+.texte
+{
 	color:red;
 
 }
 .imageflottantel
 {
 	float: left;
-=======
+
 .texte
 {
 	color:red;
->>>>>>> creation-dun-espace-info2
+
 }
 
 .imageflottante
 {
 	float: left;
-}
-
-body
-{
-	background-image: url(nicolas.jpg);
-	background-attachment: fixed;
-
 }
 
