@@ -1,19 +1,43 @@
-
-.texte
+.logo
 {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	max-width:100px ;
+	max-height:100px ;
+}
+.bouton_bachelor{
+position: absolute;
+left: 600px;
+top: 80px;
+color: red;
+}
+.bouton_master{
+position: absolute;
+left: 708px;
+top: 80px;
+color:red;
+}
+.bouton_campus{
+position: absolute;
+left: 805px;
+top: 80px;
+color:red;
+}
+.texte{
 	color:red;
-
 }
 .imageflottantel
 {
 	float: left;
-
-.texte
-{
-	color:red;
-
 }
-
+.titre{
+	color: red;
+	position: relative;
+	left:570px;
+	top: 0px;
+	font-size:40px
+}
 .imageflottante
 {
 	float: left;
