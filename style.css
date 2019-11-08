@@ -1,3 +1,17 @@
-.logo{
-	color:blue;
+.texte
+{
+	color:red;
 }
+
+.imageflottante
+{
+	float: left;
+}
+
+body
+{
+	background-image: url(nicolas.jpg);
+	background-attachment: fixed;
+
+}
+
