@@ -5,13 +5,6 @@
 	max-width:100px ;
 	max-height:100px ;
 }
-.titre{
-	color: red;
-	position: relative;
-	left:570px;
-	top: 0px;
-	font-size:40px
-}
 .bouton_bachelor{
 position: absolute;
 left: 600px;
@@ -29,4 +22,18 @@ position: absolute;
 left: 805px;
 top: 80px;
 color:red;
+}
+.texte{
+	color:red;
+}
+.imageflottantel
+{
+	float: left;
+}
+.titre{
+	color: red;
+	position: relative;
+	left:570px;
+	top: 0px;
+	font-size:40px
 }
